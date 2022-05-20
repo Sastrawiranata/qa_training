@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_GitHub</name>
+   <tag></tag>
+   <elementGuidId>46b6ed80-2b60-4d0f-9a3b-87a05ba360e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#oauth-login-github</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='oauth-login-github']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa378557-d99f-4060-8220-553ccf4dd796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn gl-button btn-default gl-w-full gl-mb-3 js-oauth-login </value>
+      <webElementGuid>8e418f7e-81f9-4c7b-a0c8-9b0ba113c95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-provider</name>
+      <type>Main</type>
+      <value>github</value>
+      <webElementGuid>cf332177-b475-4cfb-8b15-0cacd93fa477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oauth-login-github</value>
+      <webElementGuid>0364a3e1-3b8e-4318-91c7-00bd6c9c0505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>6e452ea4-9c59-4c00-92e3-a04a60027737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>e9bcb128-1912-4007-bef3-0d9d1b5865e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users/auth/github</value>
+      <webElementGuid>54982fc4-83b8-45db-971e-b7076c6d8984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+GitHub
+
+</value>
+      <webElementGuid>6b1e4fc1-c2a7-400f-ae89-3ce1eeb91e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oauth-login-github&quot;)</value>
+      <webElementGuid>6962a89b-1398-4b1f-81d1-2e9de1ad0f10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='oauth-login-github']</value>
+      <webElementGuid>33e8b3a1-365b-49c7-8bba-3c9cfcea39f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_new_user']/div[11]/a[2]</value>
+      <webElementGuid>4fa933d7-bed9-4208-892e-9aade5102a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::a[1]</value>
+      <webElementGuid>4a8501e6-d74a-4914-abe6-84165d9f9faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account using:'])[1]/following::a[2]</value>
+      <webElementGuid>5a85d1f1-5304-40da-9507-7462629b2f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3e61fd8-6353-47e2-893c-3851e4f38f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/users/auth/github')]</value>
+      <webElementGuid>ba7d164b-e13f-4a36-b409-c20b8c37ed58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/a[2]</value>
+      <webElementGuid>13dc6e5e-539d-4f5c-88b3-b720097b7178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'oauth-login-github' and @href = '/users/auth/github' and (text() = '
+
+GitHub
+
+' or . = '
+
+GitHub
+
+')]</value>
+      <webElementGuid>2a2326bf-25f2-4ac2-86b4-8babd459faa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

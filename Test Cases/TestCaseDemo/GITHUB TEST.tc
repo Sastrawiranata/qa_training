@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Record Git Hub</description>
+   <name>GITHUB TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b4d56e-9a74-47f0-b285-9f2cf5924bd6</testCaseGuid>
+</TestCaseEntity>

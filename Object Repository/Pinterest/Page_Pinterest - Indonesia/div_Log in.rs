@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in</name>
+   <tag></tag>
+   <elementGuidId>50cc9765-de81-4f40-b69e-d5b9ccfcba68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.RCK.Hsu.USg.adn.CCY.gn8.L4E.kVc.czT.Vxj.aZc.Zr3.hA-.Il7.Jrn.hNT.BG7.hDj._O1.gjz.mQ8.FTD.L4E</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__PWS_ROOT__']/div/div/div/main/div/div/div[2]/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2801fbc2-0b14-4e31-bc64-4f4fe03b86c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RCK Hsu USg adn CCY gn8 L4E kVc czT Vxj aZc Zr3 hA- Il7 Jrn hNT BG7 hDj _O1 gjz mQ8 FTD L4E</value>
+      <webElementGuid>a36f281e-049a-4255-bd33-43e2db3c5ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>71690535-735a-4eaf-b705-0dd23c26123e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__PWS_ROOT__&quot;)/div[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;sLG zI7 iyn Hsu&quot;]/main[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;zI7 iyn Hsu&quot;]/div[@class=&quot;Jea _he b8T gjz zI7 iyn Hsu&quot;]/div[@class=&quot;Jea l7T zI7 iyn Hsu&quot;]/div[@class=&quot;JME VxL hjj wc1 zI7 iyn Hsu&quot;]/button[@class=&quot;RCK Hsu USg adn CCY gn8 L4E kVc oRi lnZ wsz YbY&quot;]/div[@class=&quot;RCK Hsu USg adn CCY gn8 L4E kVc czT Vxj aZc Zr3 hA- Il7 Jrn hNT BG7 hDj _O1 gjz mQ8 FTD L4E&quot;]</value>
+      <webElementGuid>a0e45db6-db98-4919-8c71-b8a76a574dc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__PWS_ROOT__']/div/div/div/main/div/div/div[2]/div[2]/button/div</value>
+      <webElementGuid>8a976f83-4ba6-42b6-b165-1f24ade3e6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::div[2]</value>
+      <webElementGuid>ed0044d9-a0f9-465d-917f-95ff1870af04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/following::div[4]</value>
+      <webElementGuid>47062742-2ba6-4831-942b-636d3262fc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::div[2]</value>
+      <webElementGuid>3d4d0466-da7e-4425-be79-e96da6fa8cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>1c666228-7740-43d6-aa73-d87e0d5af58d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>3eed1c45-2953-4eb9-a2d7-b058aac7cdbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
